@@ -1,4 +1,4 @@
-# DICE-ROLL-STIMULATOR-GAME
+
 import random
 print("$$$ DICE ROLL STIMULATOR GAME $$$")
 print()
